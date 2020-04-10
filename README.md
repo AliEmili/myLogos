@@ -5,3 +5,5 @@ there may be bunch of logos in this repository, feel free to voice your opinion 
 - 01 : It belongs to myself, a logo for a computer engineer who wants to make educational content and share them online.
 <br/><br/>
 - 02 : It's an instance for designing a logo using ILLUSTRATOR. from a channel in youtube called 'ILLUSTRATOR for beginners'.
+<br/><br/>
+- 03 : I Designed a logo for my online activities such as Instagram, Youtube, Telegram and so on.
